@@ -1,0 +1,289 @@
+<!doctype html>
+
+<html lang="fr">
+  <head>
+    <meta charset="utf-8"> 
+    <link rel="stylesheet" href="premiere_page.css">
+    <title> Ma première page </title>
+  </head>
+  <body>
+    <h1>Lorem Ipsum </h1>
+    <h1>EXERCICE 1</h1>
+    <h2>2. D'où vient-il ?</h2>
+    <p>Contrairement à une opinion répandue, le Lorem Ipsum n'est pas simplement du texte aléatoire. Il trouve ses racines dans une oeuvre de la littérature latine classique datant de 45 av. J.-C., le rendant vieux de 2000 ans. Un professeur du Hampden-Sydney College, en Virginie, s'est intéressé à un des mots latins les plus obscurs, consectetur, extrait d'un passage du Lorem Ipsum, et en étudiant tous les usages de ce mot dans la littérature classique, découvrit la source incontestable du Lorem Ipsum. Il provient en fait des sections 1.10.32 et 1.10.33 du "De Finibus Bonorum et Malorum" (Des Suprêmes Biens et des Suprêmes Maux) de Cicéron. Cet ouvrage, très populaire pendant la Renaissance, est un traité sur la théorie de l'éthique. Les premières lignes du Lorem Ipsum, "Lorem ipsum dolor sit amet...", proviennent de la section 1.10.32.</p>
+
+    <p>L'extrait standard de Lorem Ipsum utilisé depuis le XVIè siècle est reproduit ci-dessous pour les curieux. Les sections 1.10.32 et 1.10.33 du "De Finibus Bonorum et Malorum" de Cicéron sont aussi reproduites dans leur version originale, accompagnée de la traduction anglaise de H. Rackham (1914).</p>
+
+    <h2>3. Pourquoi l'utiliser ?</h2>
+    <p>On sait depuis longtemps que travailler avec du texte lisible et contenant du sens est source de distractions, et empêche de se concentrer sur la mise en page elle-même. L'avantage du Lorem Ipsum sur un texte générique comme 'Du texte. Du texte. Du texte.' est qu'il possède une distribution de lettres plus ou moins normale, et en tout cas comparable avec celle du français standard. De nombreuses suites logicielles de mise en page ou éditeurs de sites Web ont fait du Lorem Ipsum leur faux texte par défaut, et une recherche pour 'Lorem Ipsum' vous conduira vers de nombreux sites qui n'en sont encore qu'à leur phase de construction. Plusieurs versions sont apparues avec le temps, parfois par accident, souvent intentionnellement (histoire d'y rajouter de petits clins d'oeil, voire des phrases embarassantes).</p>
+
+    <h2>Où puis-je m'en procurer ?</h2>
+    <p>Plusieurs variations de Lorem Ipsum peuvent être trouvées ici ou là, mais la majeure partie d'entre elles a été altérée par l'addition d'humour ou de mots aléatoires qui ne ressemblent pas une seconde à du texte standard. Si vous voulez utiliser un passage du Lorem Ipsum, vous devez être sûr qu'il n'y a rien d'embarrassant caché dans le texte. Tous les générateurs de Lorem Ipsum sur Internet tendent à reproduire le même extrait sans fin, ce qui fait de lipsum.com le seul vrai générateur de Lorem Ipsum. Iil utilise un dictionnaire de plus de 200 mots latins, en combinaison de plusieurs structures de phrases, pour générer un Lorem Ipsum irréprochable. Le Lorem Ipsum ainsi obtenu ne contient aucune répétition, ni ne contient des mots farfelus, ou des touches d'humour.</p>
+
+    <h2>5. Exemple</h2>
+    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac nisi non ante pellentesque consequat. Duis interdum lorem eget vehicula congue. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec pulvinar rutrum mauris vel vulputate. Quisque tellus tellus, feugiat vulputate hendrerit ut, ultrices eu nisi. Ut vitae vulputate neque, et vulputate augue. Mauris a lacinia erat, sed elementum metus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam eros quam, imperdiet sed justo et, ullamcorper placerat augue. Vestibulum vel lorem quis elit interdum tempus nec pretium arcu. Morbi dapibus ultricies euismod. Sed et blandit ex, ac posuere felis. Donec maximus, nunc vitae ultrices bibendum, nisl enim congue urna, sed porttitor augue odio in ligula.<p>
+
+
+      <h3>* Titre de niveau 3</h3>
+    <p>
+      Fusce diam est, egestas at luctus vel, varius vitae tortor. Nulla tristique arcu tincidunt tortor placerat bibendum. Nulla rutrum justo at leo lacinia, sit amet sollicitudin est mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus rutrum ornare ante sed posuere. Nunc turpis turpis, bibendum in pretium eget, viverra ac tellus. Aliquam erat volutpat. Phasellus efficitur, neque non molestie accumsan, diam sapien lobortis odio, ac imperdiet erat elit vitae metus. Suspendisse porta ut dui et tincidunt.
+    </p>
+    
+    <p>
+      Aenean euismod, nisl in aliquet ullamcorper, lectus justo luctus quam, nec vulputate ipsum risus id justo. Integer egestas aliquet metus sed tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam iaculis vitae odio id gravida. Etiam ultrices sodales dapibus. Aenean finibus fermentum diam, non gravida massa egestas nec. Phasellus efficitur mauris id augue tempor, nec ullamcorper tellus tincidunt. Vivamus luctus orci mauris, a varius neque condimentum nec. In quis est in ligula vehicula viverra. Donec eget odio odio.</p>
+
+
+    <h3>* Encore un</h3>
+    <p>
+      Etiam vel neque nunc. Curabitur feugiat quis nulla sed eleifend. Quisque finibus ligula at interdum lobortis. Nam efficitur tempus lorem et ornare. Curabitur a nunc ipsum. Etiam sollicitudin sit amet risus et scelerisque. Pellentesque lobortis nec lacus sed eleifend. Aenean auctor nisi risus, in interdum justo pretium vel.</p>
+    <p>Curabitur id ultrices nisl, aliquam luctus augue. Fusce varius tristique maximus. Proin posuere ipsum non commodo gravida. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean quis urna elit. Aenean laoreet semper neque a mattis. Mauris bibendum imperdiet enim, non consectetur dolor.</p>
+
+    <p>Etiam dolor purus, blandit ac odio vel, egestas iaculis ex. Duis vel volutpat nulla, et tincidunt nisi. Nullam eleifend, ipsum cursus sagittis congue, ipsum tortor lacinia tellus, a malesuada nisl sapien eu diam. Curabitur efficitur bibendum sapien, ut feugiat elit semper at. Phasellus rutrum in metus id viverra. Fusce sodales volutpat dolor et fermentum. Proin fermentum tellus metus, eu fringilla metus placerat eget. Nunc magna mauris, hendrerit molestie euismod id, efficitur ut nunc. Sed tincidunt augue quis nisi varius tristique. Donec in ligula consequat neque semper pretium vitae eget est. Suspendisse scelerisque, purus ut sodales pretium, nunc neque rutrum libero, ac viverra neque libero ut diam. Maecenas eu lacus finibus, tempor nisl feugiat, congue risus. Mauris at justo lectus. Nullam tincidunt vulputate justo, in commodo mauris tristique id. Fusce eleifend rutrum orci eu interdum. Proin commodo ligula nec lectus dictum, nec laoreet diam volutpat. </p>
+    
+    <p>Donec pulvinar dui ac magna accumsan pharetra. In elementum elementum turpis eu venenatis. Donec tincidunt justo feugiat purus gravida, sit amet ultricies mi consectetur. Donec finibus venenatis tortor, at porta neque porta molestie. Suspendisse cursus tempus nisl ut luctus. Integer nec ipsum varius, vehicula ante sed, consequat eros. Ut ac aliquam tellus. Nunc dapibus erat urna, eu porta lorem dictum quis. Fusce quis massa auctor justo suscipit fringilla aliquam vel ligula. Integer posuere ultricies metus id maximus. Proin sit amet lobortis purus. Praesent fringilla consectetur imperdiet. Nam convallis tempus lobortis. Nunc id elit eget orci fringilla dictum. Phasellus ac condimentum magna, sed elementum lacus.
+    </p>
+    <cite> Exercice terminé </cite>
+
+
+
+
+
+    <h1>EXERCICE 2</h1>
+    <h1>Certains groupes d’immigrés sont plus diplômés que la population française en général</h1>
+
+    <p>En France, le migrant reste, souvent, perçu comme un pauvre hère débarqué en haillons. Cette mythologie s’éloigne pourtant de plus en plus de la sociologie réelle de l’exilé. Même assignés au maniement du balai ou à un poste de vigile, les migrants installés dans l’Hexagone ont souvent des diplômes en poche. C’est ce que relève Mathieu Ichou, chercheur à l’Institut national d’études démographiques (INED), dans un travail intitulé <q>« Le niveau d’instruction des immigrés : varié et souvent plus élevé que dans les pays d’origine »</q>, publié, mardi 14 février, dans le dernier numéro de Population et Sociétés.</p>
+    <p>Le démographe relève que certains groupes sont plus diplômés que la population française en général. Ainsi, 37 % des immigrés nés en Roumanie et vivant en France possèdent un diplôme de l’enseignement supérieur, comme 43 % des Chinois, 35 % des Vietnamiens ou 32 % des Polonais, alors que « seulement » 27 % de la population générale adulte de France dispose d’un grade universitaire. Un taux d’ailleurs identique à celui des diplômés de l’université au sein de la population sénégalaise de France… Quelques autres diasporas sont en revanche en dessous de ce taux, comme les Tunisiens, dont 21 % ont au moins une licence, ou les Marocains (19 %) et les Algériens (18 %).</p>
+    <h4>Un triple capital : économique, social et intellectuel</h4>
+    <p><cite>« Contrairement à ce que l’on croit a priori, les migrants maliens qui arrivent [en Europe] sont souvent issus des classes moyennes ou supérieures de leur pays », précise le chercheur, qui rappelle que « pour quitter l’Afrique, il faut désormais bénéficier d’un certain niveau de capital économique, social et intellectuel » et ajoute que « le taux de diplômés du supérieur est bien moindre sur le continent africain qu’en France ».</cite>
+    </p>
+    <h4>Des flux migratoires diversifiés</h4>
+    <p>La jonction des surdiplômés et des sous-diplômés montre, comme le rappelle Mathieu Ichou, que <cite>« les flux migratoires se sont largement diversifiés au fil des décennies »</cite>. Ce qui permet certainement d’expliquer que le rêve <cite> « politique »</cite> d’une immigration choisie soit un des seuls points communs entre les différentes approches du sujet par les candidats à l’élection présidentielle.</p>
+
+    <h1>EXERCICE 3</h1>
+    <ul class="greek">
+      <li>Elément de la liste numérotée</li>
+      <ul class="circle">
+        <li>Texte 1 de la liste non numérotée</li>
+        <p class="para">
+          Terme 1
+        </p>
+        <p class="definition">Définition 1</p>
+        <p class="para">
+          Terme 2
+        </p>
+        <p class="definition">Définition 2</p>
+        <li>Texte 2</li>
+        <li>Texte 3</li>
+        <li>Texte 4</li>
+      </ul>
+
+      <li>Elément 2 de la liste numérotée</li>
+      <ul class="greek">
+	<li>Message 1</li>
+	<li>Message 2</li>
+	<li>Message 3</li>
+      </ul>
+    </ul>
+    
+    
+
+
+
+    <h1>EXERCICE 4</h1>
+    
+    <h1>EXERCICE 5</h1>
+    <h1>EXERCICE 6</h1>
+    Cliquez sur le lien si-dessous pour avoir le fichier en format csv.
+    <a href="/home/ophellec/Bureau/html/julo_pollution_lumineuse.csv">Julo</A>
+    <a href="/home/ophellec/Bureau/html/exercice6.html">Données</a>
+    <table id="tableau_exo_6">
+      <tr>
+	<th>value</th>
+	<th>latitude</th> 
+	<th>longitude</th>
+      </tr>
+      <tr>
+	<td> 15.96 </td>
+	<td> 5.6949 </td>
+	<td> 115.65692999999997</td>
+      </tr>
+      
+      <tr>
+	<td> 16 </td>
+	<td> 4.3844095 </td>
+	<td> 113.9718246</td>
+      </tr>
+      
+      <tr>
+	<td> 17.41 </td>
+	<td> 34.44833 </td>
+	<td> 130.925833</td>
+      </tr>
+
+      <tr>
+	<td> 18.44 </td>
+	<td> 34.4137</td>
+	<td> 130.84232999999995</td>
+      </tr>
+
+      <tr>
+	<td> 18.5 </td>
+	<td> 40.402566</td>
+	<td> 39.67832999999996</td>
+      </tr>
+
+      <tr>
+	<td> 18.7 </td>
+	<td> 3.315616 </td>
+	<td> 112.48611000000005</td>
+      </tr>
+      
+      <tr>
+	<td> 18.91</td>
+	<td> 35.47815 </td>
+	<td> 132.59126600000002
+	</td>
+      </tr>
+
+      <tr>
+	<td>19.46</td>
+	<td> 35.47815 </td>
+	<td> 132.59126600000002
+	</td>
+      </tr>
+
+       <tr>
+	<td>19.79</td>
+	<td> 35.47815 </td>
+	<td> 132.59126600000002
+	</td>
+       </tr>
+
+        <tr>
+	<td>19.98</td>
+	<td> 35.47815 </td>
+	<td> 132.59126600000002
+	</td>
+      </tr>
+
+	 <tr>
+	<td>20</td>
+	<td> 35.47815 </td>
+	<td> 132.59126600000002
+	</td>
+      </tr>
+
+	  <tr>
+	<td>20.02</td>
+	<td> 35.47815 </td>
+	<td> 132.59126600000002
+	</td>
+	  </tr>
+
+	   <tr>
+	<td>20.07</td>
+	<td> 35.47815 </td>
+	<td> 132.59126600000002
+	</td>
+	   </tr>
+
+	    <tr>
+	<td>20.72</td>
+	<td> 35.47815 </td>
+	<td> 132.59126600000002
+	</td>
+	    </tr>
+
+	     <tr>
+	<td>21</td>
+	<td> 35.47815 </td>
+	<td> 132.59126600000002
+	</td>
+	     </tr>
+
+	      <tr>
+	<td>21.2</td>
+	<td> 35.47815 </td>
+	<td> 132.59126600000002
+	</td>
+	      </tr>
+
+	       <tr>
+	<td>21.25</td>
+	<td> 35.47815 </td>
+	<td> 132.59126600000002
+	</td>
+	       </tr>
+
+	        <tr>
+	<td>21.35</td>
+	<td> 35.47815 </td>
+	<td> 132.59126600000002
+	</td>
+		</tr>
+
+		 <tr>
+	<td>21.37</td>
+	<td> 35.47815 </td>
+	<td> 132.59126600000002
+	</td>
+		 </tr>
+
+		  <tr>
+	<td>21.4</td>
+	<td> 35.47815 </td>
+	<td> 132.59126600000002
+	</td>
+		  </tr>
+
+		   <tr>
+	<td>21.5</td>
+	<td> 35.47815 </td>
+	<td> 132.59126600000002
+	</td>
+		   </tr>
+
+		    <tr>
+	<td>21.55</td>
+	<td> 35.47815 </td>
+	<td> 132.59126600000002
+	</td>
+		    </tr>
+
+		     <tr>
+	<td>21.91</td>
+	<td> 35.47815 </td>
+	<td> 132.59126600000002
+	</td>
+		     </tr>
+		     
+
+		 
+
+
+
+
+
+      
+      
+    </table>
+    
+
+    
+    
+    <h1>EXERCICE 7</h1>
+    <h1>EXERCICE 8</h1>
+    <h1>EXERCICE 9</h1>
+    <h1>EXERCICE 10</h1>
+    <h1>EXERCICE 11</h1>
+    <h1>EXERCICE 12</h1>
+    <h1>EXERCICE 13</h1>
+    <h1>EXERCICE 14</h1>
+
+    <p>Sources pour l'ensemble des exercices:</p>
+    
+    <p>
+      En savoir plus:
+      <a href="http://www.lemonde.fr/societe/article/2017/02/15/certains-groupes-d-immigres-sont-plus-diplomes-que-la-population-francaise-en-general_5079750_3224.html">http://www.lemonde.fr/societe/article/2017/02/15/certains-groupes-d-immigres-sont-plus-diplomes-que-la-population-francaise-en-general_5079750_3224.html</a></p>
+  </body>
+</html>

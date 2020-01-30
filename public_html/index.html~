@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang ="fr">
+  <head>
+    <link rel="stylesheet" type="text/css" href="index.css">
+    <meta charset="utf-8">
+    <title> ophellec</title>
+  </head>
+
+  <body>
+    
+    <p id="pp">
+      mein Gesicht...
+      Wo ist er ?
+    <img src="photo_profil.jpg" alt="photo profil anonyme">
+ </p>
+  <!-- LISTE DE DONNÉES IDENTITE-->
+  <ol id="iden">
+	<li>CASTANER</li>
+	<li> Ophélie</li>
+	<li>19/01/1998</li>
+	<li>F</li>
+	<li>Française</li>
+	<li> Etudiante en Licence Informatique</li>
+	<li>16700065</li>
+	<li> castanerophelie@gmail.com</li>
+ </ol>
+ 
+ <h1> Bienvenue !</h1>
+
+ <h2> ophellec </h2>
+
+
+ <p>
+   Une petite citation:
+    <q cite="http://www.penseedujour.net/proverbe-yiddish/c-est-en-se-plantant-qu-on-devient-cultive.html"> C'est en se plantant qu'on devient cultiver.</q>
+ </p>
+ 
+ <h3> Scolaire </h3>
+    <h5>Diplômes obtenus</h5>
+    <ul>
+      <li>Brevet des collèges. </li>
+      <li> Baccalauréat scientifique, science de l'ingénieur + informatique et sciences du numérique.
+    </ul>
+    <h5> Diplômes en cours de validation</h5>
+    <ul>
+      <li>Licence en Informatique</li>
+    </ul>
+
+
+<h3> Tourne-disques & vinyles </h3>    
+ <p>
+   Passionnée par les vinyles. A mon compteur, plus d'une cinquantaine de vinyles à mon actif, de tous les styles.
+   C'est en passant par la variété française comme la période <q> yéyé </q> donc début des années 60, que l'idée de trouver et de collectionner mes propres vinyles m'est venue.
+   
+ </p>
+
+<figure>
+   <img src="vin.jpg" alt="vinyle" height="200" width="200">
+  <figcaption> Not mine/ Nicht meins/ Pas la mienne</figcaption>
+</figure>
+<ul id="menu">
+	<li><a href="#">francophones</a>
+		<ul>
+			<li><a href="https://fr.wikipedia.org/wiki/Dalida" target = "_blank" >Dalida</a></li>
+			<li><a href="https://fr.wikipedia.org/wiki/Richard_Anthony" target = "_blank">Richard Anthony</a></li>
+			<li><a href="https://fr.wikipedia.org/wiki/Enrico_Macias" target = "_blank">Enrico Macias</a></li>
+		</ul>
+	</li><li><a href="#">Internationales</a>
+		<ul>
+			<li><a href="https://fr.wikipedia.org/wiki/Elvis_Presley" target = "_blank">Elvis Presley</a></li>
+		
+		</ul>
+	</li>
+</ul>
+
+
+
+
+
+ <h3> Langues </h3>
+
+ <p> Je porte aussi beaucoup d'intêret pour les langues. Mes apprentissages ont pu se faire à l'école ou en ligne. Deux liens de sites qui sont très utiles pour démarrer de zéro, pour réviser et puis compléter ses connaissances. Il faut aussi énormement de motivation et de persévérance.</p>
+
+ <p lang="en">
+  Most useful when you use it in english. More languages are available. clickable link open  new tabs on your browser. 
+ </p>
+ <p>
+ <a href="https://en.duolingo.com/" target = "_blank" > Duolingo </a>
+ </p>
+ <p>
+ <a href="https://www.memrise.com/fr/" target = "_blank" > Memrise.</a>
+ </p>
+  <p lang="en">
+  
+    Hamlet's Love Letter to Ophelia
+
+    (ActII. Sc.2. 115-18)
+  </p>
+
+  <blockquote lang="en">
+    Doubt thou the stars are fire,
+Doubt that the sun doth move,
+Doubt truth to be a liar,
+    But never doubt I love.
+  </blockquote>
+
+
+
+ <p>
+   <h6>Proverbe allemand</h6>
+   </p>
+  <blockquote lang="all">
+Was Hänschen nicht lernt, lernt Hans nimmermehr.
+  </blockquote>
+
+
+  <p>
+   <h6> Bonjour en russe.</h6>
+    </p>
+  <blockquote lang="ru">
+привет
+  </blockquote>
+
+
+    <p>
+     <h6> Bonjour en arabe.</h6>
+      </p>
+  <blockquote lang="ar">
+صباح الخير
+  </blockquote>
+ 
+
+      <p>
+	<h6>Bonjour en hébreu.</h6>
+	</p>
+  <blockquote lang="he">
+שלום
+  </blockquote>
+
+ <p>
+   <h6>Bonjour en kabyle.</h6>
+   </p>
+  <blockquote>
+    Azul
+    </blockquote>
+  <p>
+    Les exercices de Licence 1.
+    Pour voir les exercices réalisés, veuillez cliquez que le lien ci-dessus. The clickable link opens an new tab on your browser. Le lien cliquable ouvre un nouvel onglet sur votre navigateur. Der anklickbare Link öffnet einen neuen Tab in Ihrem Browser.
+  </p>
+  
+  
+  
+  <p>
+    <a href="Exercices_Html_L1_S2/h/page_accueil.html" target= "_blank">Les exercices en HTML+CSS + Javascript de L1 </a>
+  </p>
+
+  <div id = "fin">
+    <hr>
+    <p>
+      &copy; Fait par ophellec
+    </p>
+
+    <p>
+      <q> Cette page + les exercices constituent le site web enregistré sur le serveur du bocal de l'univeristé Paris VIII.</q>
+    </p>
+    <p>
+      <q> Création d'une page d'accueil personnelle.</q>
+    </p>
+    <p>
+      Mes idées n'engagent que moi.
+    </p>
+    <p>
+      <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-211331-1" border="0" /></a>
+      </p>
+  </div>
+     
+     
+  </body>
+</html>

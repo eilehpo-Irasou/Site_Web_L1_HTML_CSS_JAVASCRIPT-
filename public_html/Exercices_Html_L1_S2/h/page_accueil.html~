@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="c/page_accueil.css">
+	<title>Page d'accueil</title>
+</head>
+<body>
+  <h1>Les exercices en HTML,CSS et Javascript</h1>
+  
+
+<p><a href="exercice1.html">Exercice 1 </a></p>
+<p><a href="exercice2.html">Exercice 2 </a></p>
+<p><a href="exercice3.html">Exercice 3 </a></p>
+<p><a href="menu_exo4.html">Exercice 4 </a></p>
+<p><a href="exercice5.html">Exercice 5 </a></p>
+<p><a href="exercice6.html">Exercice 6 </a></p>
+<p><a href="exercice7.html">Exercice 7 </a></p>
+<p><a href="exercice8.html">Exercice 8 </a></p>
+<p><a href="exercice9.html">Exercice 9 </a></p>
+<p><a href="exercice10.html">Exercice 10 </a></p>
+<p><a href="exercice11.html">Exercice 11 </a></p>
+<p><a href="exercice12.html">Exercice 12 </a></p>
+<p><a href="exercice13.html">Exercice 13 </a></p>
+	<p><a href="exercice14.html">Exercice 14 </a></p>
+<a href="http://www.bocal.cs.univ-paris8.fr/~ophellec/"> ophellec </a>
+</body>
+</html>
