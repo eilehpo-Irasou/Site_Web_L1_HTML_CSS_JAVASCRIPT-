@@ -1,0 +1,23 @@
+
+h1{
+	text-align: center;
+}
+
+table{
+	height: 600px;
+	width: 700px;
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+
+
+td,tr,th{
+	height: 100px;
+	width: 100px;
+	border-collapse: collapse;
+    border: 2px solid black;
+}
+
+body{
+    background-color: #FFFAFA ;
+}

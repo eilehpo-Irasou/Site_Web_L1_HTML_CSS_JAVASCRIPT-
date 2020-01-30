@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="c/exercice5.css">
+    <title>Exercice 5</title>
+  </head>
+  <body>
+    <h1>EXERCICE 5</h1>
+  
+
+     <table>
+			      <tr> <!-- L1 -->
+				<td>    </td>
+
+				<td>  	</td>
+				
+				<td>	</td>
+				
+				<td>	</td>
+				
+				<td>	</td>
+				
+				<td>    </td>
+			      </tr>
+			      
+			      <tr> <!-- L2-->
+				<td>	</td>
+
+				<td rowspan="4">    </td>
+
+				<td colspan="2" rowspan="2">   </td>
+
+				<td rowspan="2">   </td>
+
+				<td rowspan="3">   </td>
+			      </tr>
+			      
+			      <tr> <!-- L3-->
+				<td>	</td>
+			      </tr>
+			      
+			      <tr> <!-- L4-->
+				<td>	</td>
+
+				<td colspan="3">   </td>
+			      </tr>
+			      
+			      <tr> <!-- L5-->
+				<td>	</td>
+
+				<td colspan="4">   </td>
+			      </tr>
+			      
+			    </table>
+ <a href="page_accueil.html"> Revenir à la page d'accueil</a>
+
+
+  </body>
+</html>

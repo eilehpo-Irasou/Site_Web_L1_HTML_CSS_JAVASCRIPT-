@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="c/exercice8.css">
+    <title>Exercice 8</title>
+  </head>
+  <body>
+    <h2>1. Qu'est-ce que le Lorem Ipsum ?</h2>
+
+    <p lang="fr">
+    Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un peintre anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker.
+	</p>
+
+    <p lang="la">
+      Etiam dolor purus, blandit ac odio vel, egestas iaculis ex. Duis vel volutpat nulla, et tincidunt nisi. Nullam eleifend, ipsum cursus sagittis congue, ipsum tortor lacinia tellus, a malesuada nisl sapien eu diam. Curabitur efficitur bibendum sapien, ut feugiat elit semper at. Phasellus rutrum in metus id viverra. Fusce sodales volutpat dolor et fermentum. Proin fermentum tellus metus, eu fringilla metus placerat eget. Nunc magna mauris, hendrerit molestie euismod id, efficitur ut nunc. Sed tincidunt augue quis nisi varius tristique. Donec in ligula consequat neque semper pretium vitae eget est. Suspendisse scelerisque, purus ut sodales pretium, nunc neque rutrum libero, ac viverra neque libero ut diam. Maecenas eu lacus finibus, tempor nisl feugiat, congue risus. Mauris at justo lectus. Nullam tincidunt vulputate justo, in commodo mauris tristique id. Fusce eleifend rutrum orci eu interdum. Proin commodo ligula nec lectus dictum, nec laoreet diam volutpat. </p>
+
+
+    <a href="page_accueil.html">Revenir à la page d'accueil</a>
+
+  </body>
+</html>

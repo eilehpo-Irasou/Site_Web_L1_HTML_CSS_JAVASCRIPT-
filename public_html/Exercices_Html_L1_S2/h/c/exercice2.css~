@@ -1,0 +1,52 @@
+h1{
+    text-align: center;
+}
+
+h2{
+    color: #005099;
+    font-family: Vascan;
+}
+
+
+@font-face{
+    font-family: Vascan;
+    src:url(Vascan.TTF);
+}
+
+
+img{
+    border-radius: 6px;
+    margin-left: 426px;
+}
+
+p{
+    text-align: justify;
+    text-indent: 3em;
+}
+
+
+h4{
+	color: rgb(0, 153, 153);
+	text-align: center;
+
+
+}
+
+
+q{
+	color:hsl(330, 100%, 50%);
+	font-style: italic;
+}
+
+
+
+
+cite{
+    color: darkblue;
+    font-variant-caps: small-caps;
+    font-weight: bold ;   
+}
+
+body{
+    background-color: #FFFAFA;
+}

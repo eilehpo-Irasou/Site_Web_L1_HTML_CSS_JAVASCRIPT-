@@ -1,0 +1,45 @@
+
+
+h1{
+	text-align: center;
+}
+
+dt{
+	text-transform: uppercase;
+	font-weight:  bolder;
+	font-family: Times;
+	text-indent: 2em;
+}
+
+dt::first-letter{
+	font-size: 130%;
+}
+/*EXERCICE 3*/
+dd{
+	font-family: Times ;
+	font-style: italic;
+	text-indent: 1em;
+	white-space: pre;
+	
+
+}
+
+body{
+	font-family: Time New Roman ,Times, arial,helvetica, Georgia;
+}
+
+ol.greek{
+
+	list-style-type:lower-greek;
+	
+}
+
+
+ol.circle{
+    list-style-type: circle;
+    
+}
+
+body{
+    background-color: #FFFAFA ;
+}

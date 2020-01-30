@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+	<title>Exercice 12</title>
+</head>
+<body>
+  <h1>Exercice 12</h1>
+
+<p onclick="myFunction(this, 'red')">Cliquez Ici !</p>
+
+<script>
+function myFunction(elmnt,clr) {
+    elmnt.style.color = clr;
+}
+</script>
+
+
+<p>
+ <a href="page_accueil.html">Revenir à la page d'accueil</a>
+</p>
+
+</body>
+</html>
+

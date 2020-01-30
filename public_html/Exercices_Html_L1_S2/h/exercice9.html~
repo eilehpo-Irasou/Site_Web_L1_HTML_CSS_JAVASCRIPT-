@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="c/exercice9.css">
+	<title>Exercice 9</title>
+</head>
+<body>
+	<h1>Informations personnelles</h1>
+
+	<fieldset>
+	<legend>Etat civil</legend>
+	<p>Civilité</p>
+
+	<form>
+		<select name="civilite">
+    	<option value="M">M</option>
+    	<option value="Mme">Mme</option>
+    	<option value="Mademoiselle">Mademoiselle</option>
+   	 	<option value="Demoiseau">Demoiseau</option>
+
+  </select>
+	</form>
+
+<p>Nom</p>
+
+	<input type="text" name="Nom" placeholder="CASTANER" size="14">
+
+
+<p>Prénom</p>
+
+	<input type="text" name="Prenom" placeholder="Ophélie" size="14">
+
+
+<p>Date de naissance</p>
+
+	<input type="text" name="Date" placeholder="19/01/1998">
+
+
+
+<p>Commune de naissance</p>
+
+	<input type="text" name="Commune_naissance" placeholder="Le Blanc-Mesnil" size="14">
+
+
+
+
+<p>
+	<select name="Commune">
+	  <option>Ardennes</option>
+	  <option>Le Blanc-Mesnil</option>
+	  <option>Drancy</option>
+	  <option>Aulnay-sous-bois</option>
+	  <option>Le Raincy</option>
+	  <option>Chelles</option>
+	  
+		
+	</select>
+</p>
+	</fieldset>
+
+
+
+
+	
+<fieldset>
+<legend>Coordonnées</legend>
+
+<p>Téléphone</p>
+	<input  type="text" name="tel" placeholder="Ex 07 77 93 70 04" size="14">
+
+
+<p>Courriel</p>
+
+	<input type="text" name="Courriel" placeholder="castanerophelie@gmail.com" size="14">
+
+
+
+
+<p>Site Web</p>
+	<input type="text" name="Commune_naissance" placeholder="www.bocal.cs.univ-paris8.fr/~ophellec" size="14">
+
+</fieldset>
+
+
+
+
+<fieldset>
+<legend>Compétences</legend>
+
+
+ <form>
+ 	<p>Niveau d'anglais :
+  <input type="radio" name="en" value="C1"> C1
+  <input type="radio" name="en" value="B2"> B2
+  <input type="radio" name="en" value="B1"> B1
+</p>
+</form> 
+
+<form>
+	<p>Langages informatique:
+	<input type="checkbox" name="HTML" value="HTML" > HTML
+	<input type="checkbox" name="CSS" value="CSS"> CSS
+	<input type="checkbox" name="Javascript" value="Javascript"> Javascript
+	<input type="checkbox" name="PHP" value="PHP"> PHP 
+</p>
+
+
+
+</form>
+</fieldset>
+
+
+
+    <form>
+    <input type="submit" name="nom" value=" Envoyer ">
+    <input type="reset" name="nom" value="Reset">
+    </form>
+
+ <a href="page_accueil.html">Revenir à la page d'accueil</a>
+
+</body>
+</html>
