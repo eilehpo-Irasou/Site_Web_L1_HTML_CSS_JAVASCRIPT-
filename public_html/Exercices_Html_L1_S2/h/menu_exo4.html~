@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="c/exercice4.css">
+	<meta charset="utf-8">
+	<title>Menu de Navigation</title>
+</head>
+<body>
+	<h1>Menu de navigation</h1>
+
+	<p><a href="exercice4_2.html">Accédez à l'exercice 4</a></p>
+	<p><a href="page_accueil.html">Revenir à la page d'accueil </a> </p>
+
+</body>
+</html>

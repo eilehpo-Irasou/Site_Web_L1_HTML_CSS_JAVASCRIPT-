@@ -1,0 +1,51 @@
+h2{
+	font-variant-caps: small-caps;
+}
+
+p{
+	text-align: justify;
+    text-indent: 2em;
+
+}
+
+p[lang="fr"]:before{
+	color: #ccccb3 ;
+	font-variant-caps: small-caps;
+	text-indent: 0em;
+  content: "Français";
+  display: block;
+
+}
+
+p[lang="la"]:before{
+	color: #ccccb3 ;
+	font-variant-caps: small-caps;
+	text-indent: 0em;
+  content: "Latin";
+  display: block;
+
+}
+
+
+body{
+	font-family: arial,helvetica, arial,Time New Roman, Georgia;
+}
+
+
+p::first-letter{
+	font-size: 140%;
+}
+
+p:lang(fr){
+	
+
+}
+
+p:lang(la){
+
+}
+
+
+body{
+    background-color: #FFFAFA ;
+}

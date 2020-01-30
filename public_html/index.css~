@@ -1,0 +1,159 @@
+
+/* gros titre*/
+h1
+{
+    font-family: helvetica;
+    text-align: center;
+    color: black;
+    text-decoration: underline overline;
+}
+h1::first-letter {
+    font-size: 150%;
+    color: #8A2BE2;
+}
+
+h2
+{
+    text-decoration: underline;
+}
+
+
+h3
+{
+    font-family: Courrier;
+    text-align: center;
+    color: darkblue;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+ /* photo de profil*/
+
+p#pp
+{
+    float:right;
+}
+
+ol#iden
+{
+    list-style-type: hebrew;
+    font-family: Helvetica;
+    line-height: 16px;
+    text-align: left;
+    margin-left: 42px;
+    color: rgb(149, 52, 4);
+}
+
+
+ /* unvisited link */
+a:link
+      {
+	  color: #0000FF;
+      }
+
+/* visited link */
+a:visited
+      {
+	  color: #0000FF;
+      }
+
+/* mouse over link */
+a:hover {
+    color: #FF1493;
+}
+
+/* selected link */
+a:active {
+    color: #008080;
+}
+
+
+
+    
+
+
+body{
+    background-image: url("bg.jpg");
+    font-size: 16px;
+   
+    
+}
+
+
+hr{
+    color: red;
+}
+/* div de fin*/
+
+q
+{
+    font-style:oblique;
+}
+
+
+blockquote
+{
+    color:#ff00ff;
+}
+#fin {
+    
+    bottom : 0 px;
+}
+
+
+
+
+
+/* menu */
+
+#menu a { 
+	display:block; 
+	color: #fff; 
+	text-decoration:none;
+}
+#menu > li,
+#menu > li li {
+	position: relative;
+	display:inline-block;
+	width: 110px;
+	padding: 6px 15px;
+	background-color: #777;
+	background-image: linear-gradient(#aaa, #888 50%, #777 50%,#999);
+}
+#menu > li li { background: transparent none; }
+#menu > li li a { color: #444; }
+#menu > li li:hover { background:#eee; }
+#menu > li:first-child {
+	border-right: 1px solid #777;
+	border-radius: 8px 0 0 8px;
+}
+#menu > li + li {
+	border-left: 1px solid #aaa;
+	border-right: 1px solid #777;
+}
+#menu > li:last-child {
+	border-right: 0;
+	border-left: 1px solid #aaa;
+	border-radius: 0 8px 8px 0 ;
+}
+#menu > li:hover {
+	background-color: #999;
+	background-image: linear-gradient(#ccc, #aaa 50%, #999 50%,#bbb);
+}
+
+#menu ul {
+	position: absolute;
+	top: 2em; left: 0;
+	max-height:0em;	
+	margin: 0; padding: 0;
+	background-color: #ddd;
+	background-image: linear-gradient(#fff,#ddd);
+	overflow: hidden;
+	transition: 1s max-height 0.3s;
+	border-radius: 0 0 8px 8px;
+}
+
+#menu > li:hover ul {
+
+	max-height: 13em;
+}
